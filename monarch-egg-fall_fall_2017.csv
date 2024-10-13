@@ -1,0 +1,786 @@
+Date,State,Town,Longitude,Latitude,Sighting
+12/25/17,CA,Woodland,-121.9,38.7,1
+12/19/17,LA,Gretna,-90.1,29.9,1
+12/18/17,LA,Gretna,-90.1,29.9,9
+12/15/17,LA,Gretna,-90.1,29.9,7
+12/03/17,TX,Port Lavaca,-96.8,28.4,3
+11/30/17,CA,Long Beach,-118.1,33.8,4
+11/25/17,TX,Spring,-95.5,30,3
+11/18/17,TX,Sugar Land,-95.6,29.6,20
+11/17/17,FL,Fort Walton Beach,-86.6,30.4,5
+11/14/17,FL,Destin,-86.4,30.4,5
+11/11/17,TX,Rosenberg,-95.7,29.5,1
+11/07/17,FL,Destin,-86.4,30.4,4
+11/05/17,TX,University Park,-96.8,32.8,3
+11/05/17,TX,University Park,-96.8,32.8,16
+11/05/17,TX,Jefferson,-94.3,32.9,3
+11/04/17,TX,Cypress,-95.7,30,3
+11/04/17,GUA,San Antonio de la Cueva,-100.2,21.4,14
+11/03/17,FL,Fort Walton Beach,-86.6,30.4,10
+11/01/17,FL,Destin,-86.4,30.4,14
+10/31/17,CA,Petaluma,-122.6,38.2,5
+10/31/17,FL,Miramar,-80.4,26,25
+10/30/17,CA,Petaluma,-122.6,38.2,5
+10/28/17,CA,Campbell,-122,37.3,3
+10/27/17,TX,League City,-95.1,29.5,2
+10/27/17,FL,Destin,-86.4,30.4,7
+10/26/17,GA,Athens,-83.4,34,5
+10/26/17,FL,Fernandina Beach,-81.5,30.7,10
+10/26/17,FL,Apalachicola,-85.1,29.7,5
+10/25/17,TX,Rosenberg,-95.7,29.5,8
+10/25/17,CA,Petaluma,-122.6,38.2,3
+10/24/17,NC,Huntersville,-80.8,35.4,6
+10/22/17,CA,Petaluma,-122.6,38.2,7
+10/19/17,CA,Petaluma,-122.6,38.2,4
+10/19/17,TX,Sugar Land,-95.6,29.6,200
+10/19/17,CA,Petaluma,-122.6,38.2,3
+10/18/17,CA,Petaluma,-122.6,38.2,1
+10/17/17,OK,Marlow,-98,34.6,20
+10/17/17,FL,Largo,-82.8,27.9,5
+10/16/17,LA,New Iberia,-91.8,30,10
+10/15/17,FL,Jacksonville,-81.5,30.4,9
+10/15/17,CA,Petaluma,-122.6,38.2,2
+10/15/17,TX,Rockport,-96.9,28.2,10
+10/14/17,FL,Ocala,-82.1,29.1,30
+10/14/17,TX,Plano,-96.7,33,2
+10/12/17,FL,Destin,-86.4,30.4,5
+10/12/17,NY,Hudson,-73.8,42.3,1
+10/11/17,KY,Smithfield,-85.3,38.4,50
+10/11/17,TX,Dickinson,-95.1,29.5,2
+10/11/17,TX,Pearland,-95.3,29.6,15
+10/10/17,MS,Columbia,-89.8,31.3,20
+10/09/17,TX,Dallas,-96.8,32.8,42
+10/09/17,CA,san luis obispo,-120.7,35.3,2
+10/09/17,AR,Hensley,-92.2,34.5,15
+10/08/17,TX,Rosenberg,-95.7,29.5,1
+10/08/17,TX,Pflugerville,-97.6,30.4,11
+10/07/17,OK,Broken Arrow,-95.8,36,27
+10/06/17,TX,League City,-95.1,29.5,3
+10/06/17,OK,Broken Arrow,-95.8,36,6
+10/05/17,TX,Rosenberg,-95.8,29.6,15
+10/05/17,GUA,AcÃ¡mbaro,-100.7,20,40
+10/05/17,TX,Abilene,-99.7,32.4,1
+10/04/17,SC,Bluffton,-80.9,32.2,41
+10/04/17,GA,Dalton,-84.9,34.8,44
+10/03/17,TX,Rosenberg,-95.7,29.5,11
+10/02/17,FL,Destin,-86.4,30.4,2
+10/02/17,OK,Tulsa,-96,36.1,4
+10/02/17,OK,Edmond,-97.5,35.7,1
+10/02/17,CA,Petaluma,-122.6,38.2,8
+10/02/17,OK,Tulsa,-95.9,36.2,1
+10/02/17,TX,Dallas,-96.8,32.8,12
+10/02/17,AR,Little Rock,-92.5,34.7,1
+09/30/17,GA,Warner Robins,-83.7,32.6,100
+09/30/17,OK,Edmond,-97.5,35.7,6
+09/30/17,NC,Apex,-78.8,35.7,10
+09/29/17,TX,Little Elm,-96.9,33.2,1
+09/29/17,CA,Petaluma,-122.6,38.2,18
+09/29/17,OK,Edmond,-97.5,35.7,3
+09/29/17,NC,Apex,-78.8,35.7,13
+09/28/17,VA,Virginia Beach,-76,36.8,5
+09/28/17,FL,Boynton Beach,-80.1,26.5,40
+09/28/17,TX,Spring,-95.5,30,4
+09/28/17,NC,Jacksonville,-77.5,34.9,52
+09/28/17,OK,Edmond,-97.5,35.7,19
+09/28/17,FL,Destin,-86.4,30.4,3
+09/27/17,TX,Little Elm,-96.9,33.2,3
+09/25/17,OK,Tulsa,-96,36.2,2
+09/25/17,OK,Edmond,-97.5,35.7,2
+09/25/17,AL,Munford,-86,33.5,48
+09/24/17,SC,Spartanburg,-81.9,35,20
+09/24/17,OK,Edmond,-97.5,35.7,20
+09/23/17,OK,Tulsa,-96,36.2,43
+09/22/17,FL,Jacksonville,-81.7,30.3,5
+09/22/17,TX,Dublin,-98.4,32,14
+09/21/17,TX,Seabrook,-95,29.6,60
+09/21/17,TN,Cornersville,-86.8,35.4,30
+09/21/17,CA,Petaluma,-122.6,38.2,15
+09/20/17,OK,Oklahoma City,-97.5,35.5,5
+09/20/17,OH,Lancaster,-82.6,39.7,65
+09/20/17,OK,Tulsa,-96,36.2,12
+09/19/17,TX,San Antonio,-98.8,29.5,3
+09/19/17,NJ,Long Beach Township,-74.1,39.7,6
+09/19/17,CA,Petaluma,-122.6,38.2,20
+09/18/17,TX,Fort Worth,-97.3,32.8,6
+09/18/17,MO,Ballwin,-90.5,38.6,1
+09/18/17,SC,Mount Pleasant,-79.8,32.8,1
+09/17/17,IN,McCordsville,-85.9,39.9,23
+09/17/17,MS,Hattiesburg,-89.3,31.3,1
+09/16/17,OK,Oklahoma City,-97.5,35.5,7
+09/16/17,OK,Tulsa,-96,36.2,12
+09/16/17,MO,Miller,-93.8,37.2,4
+09/15/17,CA,Davis,-121.7,38.6,1
+09/15/17,KY,Mayfield,-88.6,36.7,5
+09/15/17,MO,Wildwood,-90.6,38.6,100
+09/14/17,PA,Columbia,-76.5,40,2
+09/14/17,NC,Barco,-76,36.4,16
+09/14/17,TN,Delano,-84.6,35.3,3
+09/14/17,VA,Virginia Beach,-76.1,36.9,6
+09/14/17,OK,Tulsa,-95.9,36.1,30
+09/14/17,NY,Port Washington,-73.7,40.8,1
+09/14/17,MO,Miller,-93.8,37.2,7
+09/14/17,IL,Flossmoor,-87.7,41.5,1
+09/14/17,CA,Sunnyvale,-122,37.4,9
+09/14/17,TX,Dallas,-96.8,32.9,5
+09/14/17,TX,Lufkin,-94.7,31.4,16
+09/13/17,IL,Lockport,-88.1,41.6,2
+09/13/17,IN,McCordsville,-85.9,39.9,3
+09/12/17,FL,Destin,-86.4,30.4,8
+09/12/17,IL,Wood Dale,-88,42,2
+09/12/17,TX,Plainview,-101.7,34.2,4
+09/11/17,MO,Miller,-93.8,37.2,17
+09/11/17,NC,New Bern,-77,35.1,35
+09/11/17,NM,Alamogordo,-106,32.9,2
+09/11/17,VA,Madison,-78.3,38.4,3
+09/10/17,FL,Destin,-86.4,30.4,5
+09/10/17,MO,Ash Grove,-93.7,37.2,5
+09/10/17,NM,Albuquerque,-106.5,35.1,20
+09/09/17,NY,Port Washington,-73.7,40.8,11
+09/08/17,TX,Abilene,-99.7,32.3,6
+09/08/17,TX,Frisco,-96.8,33.2,20
+09/08/17,OK,Edmond,-97.5,35.7,1
+09/08/17,FL,Tallahassee,-84.3,30.5,6
+09/07/17,NC,Winston-Salem,-80.3,36.1,25
+09/07/17,AR,Hensley,-92.2,34.5,20
+09/07/17,IN,Auburn,-85.1,41.4,2
+09/07/17,IN,Newburgh,-87.4,37.9,2
+09/07/17,GA,Tucker,-84.2,33.9,8
+09/07/17,TN,Murfreesboro,-86.4,35.8,5
+09/07/17,MD,Hagerstown,-77.7,39.7,1
+09/07/17,MO,Miller,-93.8,37.2,26
+09/07/17,FL,Destin,-86.5,30.4,5
+09/07/17,FL,Destin,-86.5,30.4,5
+09/07/17,ON,Saint Catharines,-79.3,43.2,4
+09/07/17,OK,Edmond,-97.5,35.7,21
+09/07/17,VA,Petersburg,-77.5,37.2,1
+09/07/17,TN,Jonesborough,-82.5,36.3,2
+09/07/17,ON,Hastings,-78,44.3,3
+09/06/17,ON,Toronto,-79.5,43.6,1
+09/06/17,WI,McFarland,-89.3,43,2
+09/06/17,CA,Los Angeles,-118.5,34,1
+09/06/17,TN,Delano,-84.6,35.3,3
+09/06/17,PA,Philadelphia,-75.2,40,2
+09/06/17,NC,Glenwood,-81.9,35.6,2
+09/05/17,OK,Oklahoma City,-97.5,35.5,22
+09/05/17,NC,Charlotte,-80.8,35.2,10
+09/05/17,GA,Tucker,-84.2,33.9,21
+09/05/17,MO,Miller,-93.8,37.2,8
+09/05/17,TX,Seabrook,-95,29.6,25
+09/05/17,GA,Fayetteville,-84.5,33.4,110
+09/05/17,OK,Tulsa,-96,36.2,6
+09/05/17,IL,Wood Dale,-88,42,11
+09/05/17,NJ,Hackettstown,-75,41,7
+09/05/17,VA,Virginia Beach,-76.1,36.9,40
+09/05/17,TN,Jonesborough,-82.5,36.3,3
+09/05/17,MD,Middletown,-77.6,39.4,5
+09/04/17,NC,Raleigh,-78.7,35.9,6
+09/04/17,TN,Chattanooga,-85.3,35.1,1
+09/04/17,IN,Newburgh,-87.4,37.9,10
+09/04/17,TX,Fair Oaks Ranch,-98.7,29.7,1
+09/04/17,MO,Florence,-93,38.6,3
+09/04/17,MO,Ballwin,-90.5,38.6,3
+09/04/17,IN,Terre Haute,-87.3,39.4,4
+09/04/17,AL,Fairhope,-87.9,30.5,12
+09/04/17,MO,Columbia,-92.1,39,2
+09/04/17,FL,Daytona Beach,-81,29.2,2
+09/04/17,TX,Fair Oaks Ranch,-98.7,29.7,1
+09/04/17,KS,Great Bend,-98.6,38.4,3
+09/04/17,CA,Carlsbad,-117.3,33.2,100
+09/04/17,GA,Rome,-85.2,34.3,13
+09/04/17,VA,Fairfax,-77.3,38.8,2
+09/04/17,TX,Richardson,-96.8,33,9
+09/04/17,ON,Toronto,-79.5,43.7,1
+09/04/17,TN,Delano,-84.6,35.3,4
+09/03/17,KY,Lexington,-84.5,38,9
+09/03/17,OK,Norman,-97.5,35.2,2
+09/03/17,TX,Arlington,-97.2,32.7,25
+09/03/17,MO,Joplin,-94.5,37.1,5
+09/03/17,ME,Bristol,-69.5,43.9,8
+09/03/17,VA,Fairfax,-77.3,38.8,2
+09/03/17,TN,Crossville,-85.1,36,2
+09/03/17,MD,Middletown,-77.6,39.4,1
+09/02/17,IN,Frankfort,-86.5,40.3,4
+09/02/17,OK,Edmond,-97.5,35.7,15
+09/02/17,KS,Great Bend,-98.7,38.3,6
+09/02/17,MO,Miller,-93.8,37.2,37
+09/02/17,MO,Florence,-93,38.6,3
+09/02/17,TX,Plano,-96.7,33,1
+09/02/17,GA,Tyrone,-84.6,33.5,1
+09/02/17,LA,Pitkin,-93,30.9,120
+09/02/17,UT,Salt Lake City,-111.8,40.8,55
+09/01/17,CT,North Stonington,-71.9,41.4,6
+09/01/17,TX,Cookville,-94.8,33.2,2
+09/01/17,CT,Clinton,-72.5,41.3,1
+09/01/17,IL,Flossmoor,-87.7,41.5,2
+09/01/17,MA,Provincetown,-70.2,42.1,1
+09/01/17,NY,Port Washington,-73.7,40.8,19
+09/01/17,TX,Terrell,-96.3,32.8,8
+09/01/17,OK,Edmond,-97.5,35.7,23
+09/01/17,IL,Millstadt,-90.1,38.5,12
+09/01/17,OK,Guthrie,-97.5,35.8,60
+09/01/17,TN,Crossville,-85.1,36,2
+09/01/17,LA,Pitkin,-93,30.9,170
+08/31/17,CA,Coulterville,-120.3,37.8,15
+08/31/17,CA,Santa Monica,-118.5,34,5
+08/31/17,VA,Waterford,-77.6,39.2,2
+08/31/17,VA,Madison,-78.3,38.4,5
+08/31/17,MO,Florence,-93,38.6,10
+08/31/17,ON,Chatham-Kent,-82.2,42.4,1
+08/31/17,OH,Pickerington,-82.8,39.9,3
+08/31/17,OK,Edmond,-97.5,35.7,1
+08/31/17,MO,Miller,-93.7,37.2,13
+08/31/17,MD,Middletown,-77.6,39.4,7
+08/31/17,ON,Newmarket,-79.5,44.1,8
+08/30/17,NY,Indian Lake,-74.3,43.8,1
+08/30/17,IN,Newburgh,-87.4,37.9,2
+08/30/17,MO,Independence,-94.4,39.1,10
+08/30/17,OK,Norman,-97.5,35.2,3
+08/30/17,MD,Middletown,-77.6,39.4,8
+08/30/17,KS,Great Bend,-98.6,38.4,3
+08/30/17,ON,Gravenhurst,-79.4,44.9,1
+08/30/17,TX,Terrell,-96.3,32.8,6
+08/30/17,TX,Richardson,-96.7,33,1
+08/30/17,VA,Madison,-78.3,38.4,8
+08/30/17,MA,Plymouth,-70.6,41.8,1
+08/30/17,TN,Morristown,-83.3,36.2,4
+08/30/17,IL,Flossmoor,-87.7,41.5,3
+08/30/17,VA,Haymarket,-77.6,38.8,2
+08/30/17,ON,Saint Catharines,-79.2,43.2,2
+08/30/17,TN,Union City,-89,36.4,1
+08/30/17,SD,Vermillion,-96.9,42.8,1
+08/30/17,NC,Charlotte,-80.8,35.2,25
+08/29/17,IL,Urbana,-88.2,40.1,16
+08/29/17,GA,Tucker,-84.2,33.9,7
+08/29/17,MO,Licking,-91.9,37.5,20
+08/29/17,IA,Ames,-93.6,42,9
+08/29/17,MI,Vicksburg,-85.5,42.1,1
+08/29/17,GA,Dalton,-85,34.8,22
+08/29/17,KY,Mayfield,-88.6,36.7,10
+08/29/17,TX,Seabrook,-95,29.6,3
+08/29/17,TN,Delano,-84.6,35.3,12
+08/29/17,ON,Saint Catharines,-79.3,43.2,2
+08/28/17,GA,Eatonton,-83.2,33.4,3
+08/28/17,IL,Peoria,-89.6,40.8,3
+08/28/17,KS,Olathe,-94.8,38.9,3
+08/28/17,MO,Miller,-93.8,37.2,47
+08/28/17,IL,Evanston,-87.7,42,1
+08/28/17,IL,Flossmoor,-87.7,41.5,3
+08/28/17,MD,Middletown,-77.6,39.4,1
+08/28/17,MD,Crofton,-76.7,39,3
+08/28/17,TX,Spring Branch,-98.4,29.8,1
+08/28/17,WI,Bayside,-87.9,43.2,2
+08/27/17,IL,Rockford,-89,42.2,2
+08/27/17,NM,Alamogordo,-106,32.9,13
+08/27/17,KY,Louisville,-85.9,38.1,1
+08/27/17,NE,Hastings,-98.4,40.6,2
+08/27/17,IL,Peoria,-89.6,40.8,14
+08/27/17,LA,Gretna,-90,29.9,1
+08/27/17,IL,Evanston,-87.7,42,4
+08/27/17,CA,Woodland,-121.8,38.7,5
+08/27/17,NJ,Clifton,-74.2,40.9,1
+08/27/17,IL,Jacksonville,-90.2,39.7,4
+08/27/17,GA,Lilburn,-84.1,33.9,7
+08/27/17,IL,Jacksonville,-90.2,39.7,4
+08/26/17,FL,Melbourne,-80.7,28.2,70
+08/26/17,NC,Graham,-79.4,36.1,3
+08/26/17,MD,Chesapeake Beach,-76.5,38.7,1
+08/26/17,IN,Newburgh,-87.4,37.9,6
+08/26/17,OK,Oklahoma City,-97.5,35.5,7
+08/26/17,NY,Centerport,-73.4,40.9,1
+08/26/17,OK,Enid,-97.9,36.4,3
+08/26/17,IA,Ames,-93.6,42,16
+08/26/17,IL,Peoria,-89.6,40.8,5
+08/26/17,ON,Leamington,-82.5,42,55
+08/26/17,MO,Miller,-93.8,37.2,59
+08/26/17,IL,Bolingbrook,-88.1,41.7,2
+08/26/17,PA,Pennsylvania Furnace,-77.9,40.7,1
+08/26/17,OK,Broken Arrow,-95.8,36,65
+08/26/17,CA,Menlo Park,-122.2,37.5,20
+08/26/17,NJ,Hackensack,-74,40.9,11
+08/25/17,MO,Pacific,-90.7,38.5,7
+08/25/17,OH,Blacklick,-82.8,40,4
+08/25/17,NC,Winston-Salem,-80.3,36.1,10
+08/25/17,KS,Manhattan,-96.6,39.2,1
+08/25/17,IN,Claypool,-86,41.1,35
+08/25/17,GUA,San Luis,-100.7,20.2,95
+08/25/17,MD,Crofton,-76.7,39,1
+08/24/17,PA,Nottingham,-76.1,39.8,1
+08/24/17,VA,Alexandria,-77.1,38.8,1
+08/24/17,TN,Union City,-89,36.4,1
+08/24/17,NJ,Interlaken,-74,40.2,8
+08/24/17,ON,Leamington,-82.5,42,15
+08/24/17,IL,Peoria,-89.6,40.8,24
+08/24/17,NY,Port Washington,-73.7,40.9,16
+08/24/17,IA,Davenport,-90.6,41.5,3
+08/24/17,MD,Middletown,-77.6,39.4,3
+08/24/17,MN,Waseca,-93.5,44.1,6
+08/24/17,MO,Miller,-93.8,37.2,36
+08/24/17,IL,Evanston,-87.7,42,3
+08/24/17,KS,Newton,-97.3,38,1
+08/24/17,MD,Middle River,-76.4,39.3,3
+08/24/17,WI,Allenton,-88.4,43.4,1
+08/24/17,GA,Augusta,-82,33.5,5
+08/24/17,IL,Rockford,-89,42.2,1
+08/24/17,MI,Sterling Heights,-83,42.6,1
+08/24/17,CT,Clinton,-72.5,41.3,4
+08/24/17,ON,Newmarket,-79.5,44.1,4
+08/23/17,OK,Tulsa,-95.9,36.1,4
+08/23/17,MN,Eden Prairie,-93.4,44.8,2
+08/23/17,OK,Tulsa,-95.9,36,12
+08/23/17,AR,North Little Rock,-92.2,34.8,11
+08/23/17,NJ,Riverton,-75,40,6
+08/23/17,IL,Evanston,-87.7,42,3
+08/23/17,ON,Toronto,-79.6,43.7,1
+08/23/17,IL,Wheeling,-87.9,42.1,4
+08/23/17,OK,Yukon,-97.7,35.5,8
+08/23/17,CT,Beacon Falls,-73.1,41.4,5
+08/23/17,IL,Rockford,-89,42.2,2
+08/23/17,NY,Port Washington,-73.7,40.9,16
+08/23/17,MI,Wyandotte,-83.1,42.2,4
+08/23/17,WI,Hartford,-88.4,43.3,8
+08/23/17,KS,Newton,-97.3,38,4
+08/23/17,NY,Indian Lake,-74.3,43.8,2
+08/23/17,NC,Winston-Salem,-80.3,36.1,5
+08/23/17,OH,Broadview Heights,-81.7,41.3,5
+08/23/17,OK,Oklahoma City,-97.5,35.5,4
+08/22/17,MN,Laketown,-93.7,44.8,1
+08/22/17,DC,Washington,-77,38.9,1
+08/22/17,FL,Melbourne,-80.6,28.1,7
+08/22/17,MO,Miller,-93.8,37.2,2
+08/22/17,OK,Tulsa,-96,36.2,6
+08/22/17,KS,Great Bend,-98.6,38.4,4
+08/22/17,ME,Harpswell,-70,43.8,8
+08/22/17,MD,Middletown,-77.6,39.4,1
+08/22/17,MO,Martinsburg,-91.7,39.1,20
+08/22/17,WI,West Bend,-88.2,43.4,1
+08/22/17,NJ,Cape May Point,-75,38.9,24
+08/22/17,DC,Washington,-77,38.9,1
+08/22/17,TN,Smyrna,-86.5,36,2
+08/22/17,NH,Concord,-71.5,43.2,6
+08/22/17,NE,Ashton,-98.8,41.2,4
+08/21/17,MI,,-85.5,43.1,4
+08/21/17,IA,Ames,-93.6,42,14
+08/21/17,PA,Fairfield,-77.4,39.8,2
+08/21/17,MO,Miller,-93.7,37.2,14
+08/21/17,TX,Arlington,-97.2,32.7,38
+08/21/17,NY,Holtsville,-73,40.8,12
+08/21/17,MO,Saint Peters,-90.6,38.8,14
+08/21/17,VA,Ashburn,-77.5,39,10
+08/21/17,WI,West Bend,-88.2,43.4,2
+08/21/17,MI,Rockford,-85.5,43.1,2
+08/21/17,OH,Cincinnati,-84.5,39.1,4
+08/20/17,NJ,Washington Township,-75.1,39.7,5
+08/20/17,MN,Laketown,-93.7,44.8,2
+08/20/17,IA,Ames,-93.6,42,40
+08/20/17,MO,Miller,-93.8,37.2,28
+08/20/17,MD,Middletown,-77.6,39.4,4
+08/20/17,NC,Winston-Salem,-80.3,36.1,12
+08/20/17,TX,Houston,-95.6,30,3
+08/20/17,IL,Peoria,-89.6,40.8,27
+08/20/17,IL,O'Fallon,-89.9,38.6,1
+08/20/17,IN,Indianapolis,-86,39.8,1
+08/20/17,MD,Rockville,-77.2,39.1,50
+08/20/17,OK,Mannford,-96.4,36.1,60
+08/20/17,MI,Sumpter,-83.4,42.2,7
+08/20/17,WV,Shepherdstown,-77.8,39.4,2
+08/20/17,VT,Marshfield,-72.3,44.3,1
+08/20/17,MI,Shelby charter Township,-83.1,42.6,6
+08/20/17,NC,Apex,-78.8,35.7,7
+08/20/17,NJ,Hackensack,-74,40.9,12
+08/19/17,OK,Edmond,-97.5,35.7,7
+08/19/17,MN,Eden Prairie,-93.4,44.8,18
+08/19/17,NY,Indian Lake,-74.3,43.8,3
+08/19/17,NY,New York,-73.8,40.6,36
+08/19/17,IL,Brussels,-90.5,38.9,6
+08/19/17,IA,Ames,-93.6,42,17
+08/19/17,IL,Peoria,-89.6,40.8,35
+08/19/17,IN,Fairbanks,-87.6,39.2,21
+08/19/17,OK,Tulsa,-96,36.2,2
+08/19/17,MD,Middletown,-77.6,39.4,8
+08/19/17,OK,Jenks,-96,36,8
+08/19/17,NE,Grand Island,-98.3,40.9,14
+08/19/17,NC,Deep Gap,-81.5,36.2,20
+08/19/17,NM,Questa,-105.7,36.7,2
+08/19/17,NE,Hastings,-98.4,40.6,1
+08/19/17,NM,Questa,-105.7,36.7,2
+08/18/17,IL,Peoria,-89.6,40.8,13
+08/18/17,MD,Havre de Grace,-76.1,39.6,10
+08/18/17,IN,Fort Wayne,-85.3,41,1
+08/18/17,PA,Fairless Hills,-74.9,40.2,12
+08/18/17,PA,Langhorne,-74.9,40.2,5
+08/18/17,OK,Grove,-94.8,36.6,17
+08/18/17,NY,Indian Lake,-74.3,43.8,1
+08/18/17,MD,Arnold,-76.5,39.1,15
+08/18/17,GA,Tucker,-84.2,33.9,19
+08/18/17,IL,Peoria,-89.6,40.8,18
+08/18/17,MO,Miller,-93.8,37.2,33
+08/18/17,OH,Hudson,-81.4,41.3,4
+08/18/17,MD,Middletown,-77.6,39.4,2
+08/18/17,OH,Orrville,-81.8,40.8,5
+08/18/17,IA,Early,-95.2,42.5,12
+08/18/17,GA,Buford,-83.9,34.1,7
+08/18/17,CT,Clinton,-72.5,41.3,1
+08/17/17,MD,Dundalk,-76.5,39.3,20
+08/17/17,CA,Loomis,-121.2,38.8,12
+08/17/17,MI,Rockford,-85.5,43.1,2
+08/17/17,NY,Indian Lake,-74.3,43.8,7
+08/17/17,MO,Independence,-94.4,39.1,11
+08/17/17,ON,Chatham-Kent,-82.2,42.4,8
+08/17/17,ON,Leamington,-82.5,42,38
+08/17/17,MD,Middletown,-77.6,39.4,6
+08/17/17,OK,Tulsa,-95.9,36,2
+08/17/17,GA,Atanta,-84.4,33.8,15
+08/17/17,IL,Peoria,-89.6,40.8,8
+08/17/17,NJ,Leonia,-74,40.9,2
+08/16/17,OK,Tulsa,-95.9,36.1,10
+08/16/17,ON,Saint Catharines,-79.3,43.2,3
+08/16/17,TN,South Fulton,-88.9,36.4,9
+08/16/17,NY,Indian Lake,-74.3,43.8,6
+08/16/17,ON,Chatham-Kent,-82.2,42.4,1
+08/16/17,MO,Independence,-94.4,39.1,1
+08/16/17,IL,Flossmoor,-87.7,41.5,3
+08/16/17,WI,Freedom,-88.3,44.4,2
+08/16/17,MO,Miller,-93.7,37.2,15
+08/16/17,OK,Tulsa,-95.9,36.1,20
+08/16/17,OK,Grove,-94.8,36.6,6
+08/16/17,MD,Annapolis,-76.5,38.9,3
+08/16/17,OK,Tulsa,-95.9,36.2,3
+08/16/17,NS,West Porters Lake,-63.3,44.7,10
+08/16/17,VA,Virginia Beach,-76.2,36.8,21
+08/16/17,PA,Knox,-79.5,41.2,5
+08/16/17,OK,Tulsa,-96,36.2,4
+08/16/17,NJ,Hackensack,-74,40.9,11
+08/15/17,MI,Battle Creek,-85.3,42.3,37
+08/15/17,OK,Stillwater,-97.1,36.1,2
+08/15/17,KS,Leavenworth,-94.9,39.3,4
+08/15/17,GA,Tucker,-84.2,33.9,1
+08/15/17,NY,Indian Lake,-74.3,43.8,1
+08/15/17,MO,Kansas city,-94.6,39.1,4
+08/15/17,MO,Independence,-94.4,39.1,8
+08/15/17,ON,Leamington,-82.5,42,81
+08/15/17,IL,Evanston,-87.7,42,4
+08/15/17,MO,Miller,-93.8,37.2,50
+08/15/17,KS,Great Bend,-98.6,38.4,5
+08/15/17,VA,Petersburg,-77.5,37.2,8
+08/15/17,MD,Middletown,-77.6,39.4,5
+08/15/17,WV,Fayetteville,-81.1,38,3
+08/15/17,AR,Lowell,-94.1,36.3,1
+08/15/17,MA,Lowell,-71.3,42.6,2
+08/15/17,CT,Clinton,-72.5,41.3,4
+08/15/17,IL,Springfield,-89.6,39.8,1
+08/15/17,NJ,Hackensack,-74,40.9,11
+08/14/17,MN,New Brighton,-93.2,45.1,1
+08/14/17,MI,,-85.5,43.1,1
+08/14/17,MD,Arnold,-76.5,39.1,8
+08/14/17,QC,Dunham,-72.8,45.1,20
+08/14/17,KS,Great Bend,-98.6,38.4,3
+08/14/17,ON,Chatham-Kent,-82.2,42.4,2
+08/14/17,NY,Buffalo,-78.8,43,12
+08/14/17,MO,Miller,-93.8,37.2,13
+08/14/17,PA,Newtown,-75,40.3,22
+08/14/17,IN,Hammond,-87.5,41.6,4
+08/14/17,NY,Indian Lake,-74.3,43.8,2
+08/14/17,OK,Tulsa,-96,36.2,4
+08/14/17,IA,Ames,-93.6,42,4
+08/14/17,FL,Oviedo,-81.2,28.7,3
+08/14/17,IL,Peoria,-89.6,40.8,129
+08/14/17,IL,Crystal Lake,-88.3,42.2,6
+08/14/17,CT,Clinton,-72.5,41.3,5
+08/14/17,NJ,Hackensack,-74,40.9,18
+08/14/17,VA,Sterling,-77.4,39,1
+08/14/17,VA,Sterling,-77.4,39,3
+08/13/17,MD,Arnold,-76.5,39.1,15
+08/13/17,MN,Arden Hills,-93.2,45,2
+08/13/17,IN,Newburgh,-87.4,37.9,1
+08/13/17,MD,Crofton,-76.7,39,10
+08/13/17,IN,Fairbanks,-87.6,39.2,56
+08/13/17,IL,Evanston,-87.7,42,33
+08/13/17,MS,Laurel,-89,31.7,1
+08/13/17,MA,Sandwich,-70.5,41.8,3
+08/13/17,OK,Broken Arrow,-95.7,36.1,10
+08/13/17,MI,St. Johns,-84.6,43,1
+08/13/17,ON,Chatham-Kent,-82.2,42.4,2
+08/13/17,NY,Buffalo,-78.8,43,12
+08/13/17,MD,Pikesville,-76.8,39.4,3
+08/13/17,ON,Chatham-Kent,-82.2,42.4,1
+08/13/17,MD,Middletown,-77.6,39.4,5
+08/13/17,CO,Strasburg,-104.3,39.7,30
+08/13/17,NJ,Hackensack,-74,40.9,6
+08/12/17,VA,Upperville,-77.9,39,5
+08/12/17,MD,Crofton,-76.7,39,4
+08/12/17,MI,Sterling Heights,-83,42.6,5
+08/12/17,IA,Coralville,-91.6,41.7,20
+08/12/17,NY,East Islip,-73.2,40.7,1
+08/12/17,NY,East Islip,-73.2,40.7,6
+08/12/17,IL,Rockford,-89,42.2,2
+08/12/17,NY,,-73.8,40.7,3
+08/12/17,MD,Crofton,-76.7,39,11
+08/12/17,IL,Evanston,-87.7,42,14
+08/12/17,IN,Newburgh,-87.4,37.9,1
+08/12/17,WI,Green Bay,-88,44.5,2
+08/12/17,IA,Ames,-93.6,42,13
+08/12/17,MA,Middleton,-71,42.6,12
+08/12/17,MO,Arnold,-90.4,38.4,76
+08/12/17,OK,Broken Arrow,-95.8,36,1
+08/12/17,IL,Rockford,-89,42.2,2
+08/12/17,MO,Miller,-93.8,37.2,16
+08/12/17,IL,Peoria,-89.6,40.7,205
+08/12/17,ON,Wheatley,-82.5,42.2,3
+08/12/17,WI,Arcadia,-91.4,44.2,2
+08/12/17,OH,Hudson,-81.4,41.2,4
+08/12/17,NJ,Hackensack,-74,40.9,2
+08/11/17,MN,Saint Paul,-93.1,44.9,8
+08/11/17,PA,New Hope,-75,40.4,3
+08/11/17,PA,New Hope,-75,40.4,3
+08/11/17,KS,Topeka,-95.6,39.1,1
+08/11/17,KS,Leavenworth,-94.9,39.3,13
+08/11/17,IL,Moline,-90.5,41.5,1
+08/11/17,DE,Newark,-75.8,39.7,1
+08/11/17,IN,Fairbanks,-87.6,39.2,8
+08/11/17,IL,Evanston,-87.7,42,47
+08/11/17,MI,Willis,-83.6,42.1,58
+08/11/17,MO,Independence,-94.4,39.1,2
+08/11/17,IA,Ames,-93.6,42,22
+08/11/17,MD,Middletown,-77.6,39.4,16
+08/11/17,NY,Indian Lake,-74.3,43.8,3
+08/11/17,TN,Morristown,-83.3,36.2,41
+08/11/17,PA,Fairfield,-77.4,39.8,20
+08/11/17,IL,Chicago,-87.7,42,4
+08/11/17,CT,Ashford,-72.2,41.9,3
+08/11/17,OK,Broken Arrow,-95.8,36,15
+08/11/17,MO,Miller,-93.7,37.2,4
+08/11/17,NY,Troy,-73.7,42.7,5
+08/11/17,NJ,Wenonah,-75.1,39.8,70
+08/11/17,PA,Langhorne,-74.9,40.2,2
+08/11/17,PA,Newtown,-75,40.3,17
+08/11/17,MN,Saint Paul,-93.1,44.9,2
+08/11/17,OK,Tulsa,-95.9,36,1
+08/11/17,VA,Ashburn,-77.5,39,5
+08/11/17,PA,Lansford,-75.9,40.8,7
+08/11/17,KY,Versailles,-84.8,38,12
+08/11/17,KY,Versailles,-84.8,38,7
+08/11/17,CT,Clinton,-72.5,41.3,3
+08/10/17,NC,Manteo,-75.7,35.9,10
+08/10/17,MN,Arden Hills,-93.2,45,4
+08/10/17,MD,Crofton,-76.7,39,9
+08/10/17,OK,Edmond,-97.5,35.7,1
+08/10/17,MO,Independence,-94.4,39.1,7
+08/10/17,IL,Evanston,-87.7,42,33
+08/10/17,PA,State College,-77.9,40.8,15
+08/10/17,IN,Fairbanks,-87.6,39.2,12
+08/10/17,MO,Independence,-94.4,39.1,3
+08/10/17,ON,South Dundas,-75.2,44.9,7
+08/10/17,ON,Chatham-Kent,-82.2,42.4,6
+08/10/17,IL,Peoria,-89.6,40.8,57
+08/10/17,VA,Madison,-78.3,38.4,3
+08/10/17,MI,,-85.5,43.1,8
+08/10/17,MO,Miller,-93.8,37.2,8
+08/10/17,NY,Savannah,-76.7,43.1,38
+08/10/17,IN,Angola,-85,41.7,2
+08/10/17,MI,Vicksburg,-85.5,42.1,150
+08/10/17,NY,Erieville,-75.7,42.9,10
+08/10/17,NJ,Hackensack,-74,40.9,2
+08/10/17,CT,Clinton,-72.5,41.3,2
+08/10/17,OK,Comanche,-98,34.3,24
+08/09/17,MO,Independence,-94.4,39.1,1
+08/09/17,IA,Coralville,-91.6,41.7,4
+08/09/17,NC,Fletcher,-82.5,35.4,100
+08/09/17,MN,Arden Hills,-93.2,45,3
+08/09/17,VT,Randolph,-72.6,43.9,6
+08/09/17,IL,Moline,-90.5,41.5,9
+08/09/17,OK,Enid,-97.9,36.4,3
+08/09/17,MO,Independence,-94.4,39.1,3
+08/09/17,TN,Johnson City,-82.3,36.4,70
+08/09/17,IL,Evanston,-87.7,42,43
+08/09/17,NY,,-73.8,40.8,15
+08/09/17,ME,Camden,-69.1,44.2,1
+08/09/17,TN,South Fulton,-88.9,36.4,6
+08/09/17,IA,Ames,-93.6,42,15
+08/09/17,IL,East Peoria,-89.5,40.7,37
+08/09/17,IN,Hammond,-87.5,41.6,1
+08/09/17,IN,Fairbanks,-87.6,39.2,7
+08/09/17,MD,Middletown,-77.6,39.4,12
+08/09/17,IL,Chicago,-87.7,42,6
+08/09/17,NJ,Somerville,-74.6,40.6,5
+08/09/17,ON,South Dundas,-75.2,44.9,11
+08/09/17,MI,,-85.5,43.1,8
+08/09/17,KS,Leavenworth,-94.9,39.3,25
+08/09/17,NY,,-73.8,40.7,5
+08/09/17,NY,Basom,-78.4,43.1,40
+08/09/17,NJ,Leonia,-74,40.9,6
+08/09/17,NJ,Hackensack,-74,40.9,2
+08/08/17,MO,Independence,-94.4,39.1,2
+08/08/17,MA,Salem,-70.9,42.5,2
+08/08/17,IN,North Liberty,-86.3,41.5,30
+08/08/17,IN,North Liberty,-86.3,41.5,30
+08/08/17,MD,Elkton,-75.9,39.5,3
+08/08/17,PA,New Hope,-74.9,40.3,2
+08/08/17,PA,Laceyville,-76.1,41.7,25
+08/08/17,OK,Enid,-97.9,36.4,4
+08/08/17,WI,Allenton,-88.4,43.4,5
+08/08/17,IA,Ames,-93.6,42,19
+08/08/17,IN,Plainfield,-86.4,39.7,1
+08/08/17,IN,McCordsville,-85.9,39.9,14
+08/08/17,NY,Indian Lake,-74.3,43.8,1
+08/08/17,IL,Evanston,-87.7,42,16
+08/08/17,MD,Arnold,-76.5,39,40
+08/08/17,FL,Altamonte Springs,-81.4,28.7,10
+08/08/17,FL,Tallahassee,-84.3,30.5,5
+08/07/17,ON,Hamilton,-80,43.2,5
+08/07/17,MN,Columbia Heights,-93.2,45,1
+08/07/17,OH,Mansfield,-82.5,40.8,20
+08/07/17,IL,Moline,-90.5,41.5,9
+08/07/17,IN,Elkhart,-85.9,41.7,15
+08/07/17,IL,Evanston,-87.7,42,3
+08/07/17,MN,Mankato,-94,44.2,9
+08/07/17,NY,Melrose,-73.6,42.8,5
+08/07/17,IL,Peoria,-89.6,40.8,2
+08/07/17,MA,Stoughton,-71.1,42.1,38
+08/07/17,AR,Witts Springs,-92.9,35.7,1
+08/07/17,NH,Dover,-70.9,43.2,1
+08/07/17,ME,Harpswell,-70,43.8,14
+08/07/17,ON,Toronto,-79.2,43.8,8
+08/06/17,MD,Severn,-76.7,39.1,23
+08/06/17,MN,Arden Hills,-93.2,45,3
+08/06/17,MD,Severna Park,-76.5,39.1,32
+08/06/17,NY,Indian Lake,-74.3,43.8,3
+08/06/17,IA,Ames,-93.7,42,3
+08/06/17,NY,East Islip,-73.2,40.7,3
+08/06/17,IL,Evanston,-87.7,42,9
+08/06/17,NJ,Hackensack,-74,40.9,25
+08/06/17,IL,Cortland,-88.7,41.9,41
+08/06/17,IA,Ames,-93.6,42,60
+08/06/17,MA,Lincoln,-71.3,42.4,1
+08/06/17,IL,Metamora,-89.4,40.8,8
+08/06/17,IL,Peoria,-89.6,40.8,105
+08/06/17,ME,Bowdoinham,-69.9,44,23
+08/06/17,IN,Fairbanks,-87.6,39.2,4
+08/06/17,MD,Middletown,-77.6,39.4,4
+08/06/17,CT,Bethel,-73.4,41.4,8
+08/06/17,OH,Hudson,-81.4,41.3,8
+08/05/17,MD,Arnold,-76.5,39.1,1
+08/05/17,MN,Blaine,-93.2,45.2,14
+08/05/17,OH,Sylvania,-83.7,41.7,8
+08/05/17,NC,Mocksville,-80.5,35.9,3
+08/05/17,IL,Evanston,-87.7,42,19
+08/05/17,MN,Saint Paul,-93.1,44.9,8
+08/05/17,OK,Enid,-97.9,36.4,4
+08/05/17,NY,Oneida,-75.7,43.1,18
+08/05/17,IL,East Peoria,-89.5,40.7,2
+08/05/17,IL,Peoria,-89.6,40.8,10
+08/05/17,OK,Collinsville,-95.8,36.4,20
+08/05/17,NJ,Hackensack,-74,40.9,12
+08/05/17,OK,Haskell,-95.7,35.8,16
+08/05/17,MO,Miller,-93.8,37.2,4
+08/05/17,MO,Arnold,-90.4,38.4,52
+08/05/17,PA,Newtown,-75,40.3,12
+08/05/17,IL,Berwyn,-87.8,41.8,12
+08/05/17,ME,Harpswell,-70,43.8,46
+08/05/17,IL,Moline,-90.5,41.5,10
+08/05/17,AR,Little Rock,-92.3,34.6,21
+08/05/17,IL,Rockford,-89,42.2,3
+08/05/17,ON,Chatham-Kent,-82.2,42.4,4
+08/05/17,ME,Bowdoinham,-69.9,44,16
+08/05/17,MD,Middletown,-77.6,39.4,2
+08/05/17,OH,Cleveland,-81.7,41.5,2
+08/05/17,PA,Columbia,-76.5,40.1,1
+08/05/17,TX,Katy,-95.8,29.7,4
+08/05/17,CT,Simsbury,-72.8,41.9,7
+08/05/17,VA,Ashburn,-77.5,39.1,3
+08/04/17,NJ,Hackensack,-74,40.9,1
+08/04/17,MN,Blaine,-93.2,45.1,1
+08/04/17,MN,New Brighton,-93.2,45.1,1
+08/04/17,NY,Buffalo,-78.8,43,2
+08/04/17,GA,Athens,-83.4,34,20
+08/04/17,MD,Arnold,-76.5,39.1,1
+08/04/17,MN,Minneapolis,-93.2,45,3
+08/04/17,MO,Independence,-94.4,39.1,6
+08/04/17,IL,Evanston,-87.7,42,4
+08/04/17,PA,Newtown,-75,40.3,41
+08/04/17,PA,Newtown,-75,40.3,41
+08/04/17,OH,Sylvania,-83.7,41.7,56
+08/04/17,MN,Saint Paul,-93.1,44.9,15
+08/04/17,IL,Hanna City,-89.8,40.7,4
+08/04/17,IL,Peoria,-89.6,40.8,13
+08/04/17,ON,Chatham-Kent,-82.2,42.4,2
+08/04/17,MD,Clarksville,-76.9,39.2,15
+08/04/17,NY,Oneida,-75.7,43.1,10
+08/04/17,ME,Bowdoinham,-69.9,44,60
+08/04/17,MN,Mankato,-94,44.2,6
+08/04/17,ON,Brampton,-79.8,43.7,60
+08/04/17,IL,Huntley,-88.4,42.2,11
+08/04/17,ON,Newmarket,-79.5,44.1,4
+08/03/17,MD,Arnold,-76.5,39.1,34
+08/03/17,FL,Saint Johns,-81.6,30,1
+08/03/17,NY,Indian Lake,-74.3,43.8,4
+08/03/17,OK,Haskell,-95.7,35.8,6
+08/03/17,IA,Ames,-93.6,42,13
+08/03/17,NJ,Washington Township,-75.1,39.8,4
+08/03/17,WI,Allenton,-88.4,43.4,1
+08/03/17,NY,Erieville,-75.7,42.9,12
+08/03/17,MD,Middletown,-77.6,39.4,8
+08/03/17,OK,Haskell,-95.7,35.8,11
+08/03/17,MO,Arnold,-90.4,38.4,80
+08/03/17,PA,Broomall,-75.3,40,6
+08/03/17,IL,Crystal Lake,-88.3,42.2,1
+08/03/17,IN,Fairbanks,-87.6,39.2,10
+08/03/17,ON,Barrie,-79.6,44.4,2
+08/03/17,PA,Lehighton,-75.7,40.8,5
+08/03/17,ON,Toronto,-79.2,43.8,10
+08/03/17,ON,Newmarket,-79.5,44.1,12
+08/02/17,NY,Indian Lake,-74.3,43.8,1
+08/02/17,MD,Arnold,-76.5,39,10
+08/02/17,NY,,-73.8,40.7,3
+08/02/17,MN,Arden Hills,-93.2,45,3
+08/02/17,NC,Huntersville,-80.8,35.5,3
+08/02/17,NY,Morrisonville,-73.6,44.6,1
+08/02/17,MD,Annapolis,-76.5,39,11
+08/02/17,NY,Oneida,-75.7,43.1,9
+08/02/17,CT,Clinton,-72.5,41.3,4
+08/02/17,MD,Crofton,-76.7,39,2
+08/02/17,MD,Severna Park,-76.5,39.1,19
+08/02/17,MN,Saint Paul,-93.1,44.9,7
+08/02/17,IN,Fremont,-84.8,41.7,10
+08/02/17,PA,Tarentum,-79.8,40.6,3
+08/02/17,OK,Broken Arrow,-95.8,36,22
+08/02/17,IL,Evanston,-87.7,42,8
+08/02/17,MN,Minneapolis,-93.3,44.8,12
+08/02/17,IN,Fairbanks,-87.6,39.2,26
+08/02/17,IL,Peoria,-89.6,40.8,62
+08/02/17,ON,Chatham-Kent,-82.2,42.4,1
+08/02/17,PA,Wyomissing,-76,40.3,50
+08/02/17,OH,Cleveland,-81.7,41.5,1
+08/02/17,CO,Thornton,-105,39.9,16
+08/02/17,ON,Toronto,-79.2,43.8,5
+08/02/17,ON,Toronto,-79.2,43.8,5
+08/02/17,MD,Port Republic,-76.5,38.5,1
+08/02/17,ON,Newmarket,-79.5,44.1,23
+08/01/17,MN,Minneapolis,-93.2,45,3
+08/01/17,MN,Rochester,-92.5,44,12
+08/01/17,MD,Crofton,-76.7,39,1
+08/01/17,PA,Broomall,-75.4,40,9
+08/01/17,MA,West Newton,-71.2,42.3,4
+08/01/17,MN,Moose Lake,-92.8,46.4,10
+08/01/17,IN,Westfield,-86.2,40,5
+08/01/17,MA,Somerset,-71.1,41.8,4
+08/01/17,IL,Peoria,-89.6,40.8,5
+08/01/17,IA,Ames,-93.6,42,36
+08/01/17,NC,Hickory,-81.2,35.8,2
+08/01/17,IL,Evanston,-87.7,42,15
+08/01/17,PA,Hamilton,-77.7,39.9,5
+08/01/17,WI,Boulder Junction,-89.6,46.1,2
+08/01/17,ON,Chatham-Kent,-82.2,42.4,4
+08/01/17,MD,Middletown,-77.6,39.4,6
+08/01/17,MD,Arnold,-76.5,39,2
+08/01/17,MD,Annapolis,-76.5,39,34
+08/01/17,CT,Clinton,-72.5,41.3,3
+08/01/17,PA,Langhorne,-74.9,40.2,2
+08/01/17,MO,Arnold,-90.4,38.4,25
+08/01/17,VA,Alexandria,-77.1,38.7,53
+08/01/17,CT,Hebron,-72.4,41.7,1
+08/01/17,ME,Bristol,-69.5,43.9,35
+08/01/17,TN,Jonesborough,-82.5,36.3,2
+08/01/17,ON,Wheatley,-82.5,42.2,4
+08/01/17,TX,Houston,-95.6,29.8,100
+08/01/17,MN,Maple Grove,-93.4,45.1,3
+08/01/17,ON,Newmarket,-79.5,44.1,64
